@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://jardines.ah1688.vip/dig/apps/ios-1214.ipa</string>
+					<string>http://jardines.ah1688.vip/apps/ios-1214.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://jardines.ah1688.vip/dig/apps/logo.jpg</string>
+					<string>http://jardines.ah1688.vip/apps/logo.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://jardines.ah1688.vip/dig/apps/logo.jpg</string>
+					<string>http://jardines.ah1688.vip/apps/logo.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
